@@ -18,7 +18,8 @@
     "test-debug": "node --debug-brk node_modules/buster/bin/buster-test"
   },
   "dependencies": {
-    "coffee-script": ""
+    "coffee-script": "",
+    "semver": ""
   },
   "devDependencies": {
     "buster": "",
